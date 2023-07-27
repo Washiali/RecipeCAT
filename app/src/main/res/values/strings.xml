@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="title_activity_recipe_home">RecipeHome</string>
+    <string name="title_activity_main_home">MainActivityHome</string>
+    <string name="title_activity_main_activitybeef">MainActivitybeef</string>
+    <string name="title_activity_main_rice">MainActivityRice</string>
+    <string name="title_activity_main_pork">MainActivityPork</string>
+    <string name="title_activity_main_chapati">MainActivityChapati</string>
+    <string name="title_activity_main_fries">MainActivityFries</string>
+    <string name="title_activity_main_naan">MainActivityNaan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main4">MainActivity4</string>
+</resources>
